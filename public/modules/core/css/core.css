@@ -2,7 +2,7 @@
 
 body {
 	overflow-x: hidden;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Fira Sans', 'Source Sans Pro', 'arial', sans-serif;
 	font-size: 16px;
 }
 
@@ -122,10 +122,9 @@ section.hero-section .jumbotron {
 	}
 
 	section.hero-section .jumbotron .signup-btn {
-		background-color:#FA787E; 
-		border: none; 
-		font-size: 2em; 
-		padding: 0.3em 0.9em; 
+		background-color:#FA787E;
+		border: none;
+		font-size: 2em;
+		padding: 0.3em 0.9em;
 		color: white;
 	}
-
