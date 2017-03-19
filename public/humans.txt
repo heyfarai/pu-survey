@@ -1,7 +1,11 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-# TEAM
+# Pixel Up!
+
+    Farai Madzima -- Organiser -- @farai_uxguy
+
+# TELLFORM TEAM
 
     David Baldwynn -- Developer -- @davidbaldwynn
     Samuel Laulhau -- Developer -- @_samuel_
